@@ -10,3 +10,6 @@ C:\Users\User\source\repos\Linq\Linqdemo\bin\Debug\Linqdemo.pdb
 C:\Users\User\source\repos\Linq\Linqdemo\obj\Debug\Linqdemo.csprojAssemblyReference.cache
 C:\Users\User\source\repos\Linq\Linqdemo\obj\Debug\Linqdemo.exe
 C:\Users\User\source\repos\Linq\Linqdemo\obj\Debug\Linqdemo.pdb
+C:\Users\User\source\repos\Linq\Linqdemo\bin\Debug\ClassLibrary.dll
+C:\Users\User\source\repos\Linq\Linqdemo\bin\Debug\ClassLibrary.pdb
+C:\Users\User\source\repos\Linq\Linqdemo\obj\Debug\Linqdemo.csproj.CopyComplete
